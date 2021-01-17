@@ -1,5 +1,4 @@
 # neovim-aiancheruk
-## 
 This is a custom config for neovim for my day-to-day use.
 
 ## Installation
